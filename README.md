@@ -18,4 +18,4 @@ These implementations were created as part of my **Advanced Generative AI Intern
 
 Click below to open directly:
 
-[Open in Colab](https://colab.research.google.com/github/devg06910-maker/LangChain-Deep-Technical-Blog/blob/main/langchain_examples.ipynb)
+[Open in Colab](https://colab.research.google.com/github/devg06910-maker/IN226080902_LangChain-Deep-Technical-Blog/blob/main/langchain_examples.ipynb)
